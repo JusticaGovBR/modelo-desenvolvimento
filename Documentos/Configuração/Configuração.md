@@ -1,6 +1,6 @@
 Configuração
 ==========================
-
+![SINCA-Artefato-EVO_1_0_0](http://git.mj.gov.br/CGTI/SINCA/uploads/38469dc81c640efcd558f1d83b2306b5/SINCA-Artefato-EVO_1_0_0.png)
 
 ### Atenção!
 
